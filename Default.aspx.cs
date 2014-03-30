@@ -52,11 +52,6 @@ namespace LearningHTML
                 }
             }
         }
-
-        public virtual void button1Clicked2(object sender, EventArgs args) 
-        {
-             
-        }
     }
 }
 
